@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color:rebeccapurple;
+}
+.item.ios.in-list.ion-focusable.hydrated{
+    color: red !important;
+}
+
+#N1{
+    --background-color: red !important;
+
+    
+}
+
+.ios.ion-page.hydrated{
+    --background-color: red !important;
+}
+
+:host{
+background-color: blue !important;
+}
+
+ion-item{
+// --background-color: aqua !important;
+--ion-background-color: aqua;
+--padding-end:20px;
+
+}
+
+p{
+    text-align:center;
+}
